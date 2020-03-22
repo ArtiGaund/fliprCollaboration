@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743827534153",
+    "firebase_url": "https://collabapp-ae2a8.firebaseio.com",
+    "project_id": "collabapp-ae2a8",
+    "storage_bucket": "collabapp-ae2a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743827534153:android:ef800e3203b377ecd2ea98",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.collabapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743827534153-o68sq54hnui8eqbimrirvs8ktekujtt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1qUXDCxy_l_WelrsGQ7BAcRvepOafXPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743827534153-o68sq54hnui8eqbimrirvs8ktekujtt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
